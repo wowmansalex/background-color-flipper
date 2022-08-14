@@ -1,0 +1,29 @@
+body {
+  font-family: Arial, Helvetica, sans-serif;
+  margin: 0;
+  padding: 0;
+}
+
+.container {
+  background-color: aqua;
+  position: relative;
+  display: flex;
+  width: 400px;
+  height: 100px;
+  justify-content: center;
+  align-items: center;
+  vertical-align: center;
+  top: 40%;
+  left: 35%;
+}
+
+.backgroundColorDisplay {
+  width: 250px;
+
+
+}
+
+.generateButton {
+  width: 100px;
+  height: 40px;
+}
